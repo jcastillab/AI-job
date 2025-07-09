@@ -35,7 +35,9 @@ ia-job-market-analysis/
 ```
 
 # 🖼️ Dashboard Preview
-![iDashboard](https://github.com/jcastillab/AI-job/blob/main/images/AI%20job%20analysis.png)
+<p align="center">
+  <img src="images/dashboard_preview.png" width="800"/>
+</p>
 📈 Key Insights
 🌍 Highest AI job concentrations: United States, India, Germany, United Kingdom.
 
