@@ -1,6 +1,8 @@
 # 📊 Artificial Intelligence Job Market Analysis
 
-This project explores the global job market in the field of Artificial Intelligence (AI), using data collected from a trusted source (e.g., Kaggle, LinkedIn Job Insights). The analysis is presented through an interactive dashboard built in **Power BI**, highlighting patterns and opportunities across different regions.
+This project presents an exploratory analysis of the global job market related to Artificial Intelligence (AI), using real job posting data. The main goal is to identify demand patterns by country, city, and role, as well as required skills and technologies.
+
+The analysis is visualized through an interactive Power BI dashboard. This project is part of my data analytics portfolio and aims to offer insights to professionals, recruiters, and decision-makers interested in the growth and demand of AI-related roles worldwide.
 
 ---
 
@@ -33,11 +35,11 @@ ia-job-market-analysis/
 ```
 
 # 🖼️ Dashboard Preview
-
+![iDashboard](https://github.com/jcastillab/AI-job/blob/main/images/AI%20job%20analysis.png)
 📈 Key Insights
 🌍 Highest AI job concentrations: United States, India, Germany, United Kingdom.
 
 💼 Most in-demand roles: Machine Learning Engineer, Data Scientist, AI Researcher.
 
-🧠 Key skills required: Python, TensorFlow, NLP, SQL, PyTorch.
+🧠 Key skills required: Python, TensorFlow, Kubernetes, SQL, PyTorch.
 
