@@ -36,12 +36,13 @@ ia-job-market-analysis/
 
 # 🖼️ Dashboard Preview
 <p align="center">
-  <img src="images/dashboard_preview.png" width="800"/>
+  <img src="images/AI job analysis.png" width="800"/>
 </p>
-📈 Key Insights
-🌍 Highest AI job concentrations: United States, India, Germany, United Kingdom.
 
-💼 Most in-demand roles: Machine Learning Engineer, Data Scientist, AI Researcher.
+## 📈 Key Insights
 
-🧠 Key skills required: Python, TensorFlow, Kubernetes, SQL, PyTorch.
+- 🌍 Highest AI job demand found in United States, India & Germany.
+- 💼 Top roles: Machine Learning Engineer, Data Scientist, AI Researcher.
+- 🧠 Required skills frequently mentioned: Python, TensorFlow, NLP, SQL, PyTorch.
+
 
